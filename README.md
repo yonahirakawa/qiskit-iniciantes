@@ -4,7 +4,9 @@
 	🚧  Em construção...  🚧
 </h4>
 
-Primeiros passos para criar circuitos quânticos com Qiskit.
+- Exemplos de como criar um circuito quântico simples com o Qiskit. 
+- Operadores básicos da computação quântica. 
+
 
 ##  Referências
 
