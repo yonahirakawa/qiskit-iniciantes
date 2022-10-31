@@ -15,3 +15,5 @@ Primeiros passos para criar circuitos quânticos com Qiskit.
 - [Portas Lógicas Quânticas](https://medium.com/cq-em-portugu%C3%AAs/portas-l%C3%B3gicas-qu%C3%A2nticas-ed014c43a381)
 
 - [Notebooks do QWorld](https://gitlab.com/qworld)
+
+- [Introduction to Bell States in Qiskit with Code](https://quantumcomputinguk.org/tutorials/introduction-to-bell-states)
